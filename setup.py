@@ -17,12 +17,10 @@ setup(
   install_requires=[
       'mock==2.0.0',
       'responses==0.9.0',
-      'tabulate==0.8.2',
-      'Requests==2.19.1',
-      'PyYAML==3.13',
+      'Requests==2.20.0',
+      'PyYAML==4.2b1',
       'yamale==1.7.1',
       'pytest',
-      'keras==2.2.4',
       'pandas==0.24.1',
       'scikit-learn==0.20.2',
       'matplotlib==3.0.2'
